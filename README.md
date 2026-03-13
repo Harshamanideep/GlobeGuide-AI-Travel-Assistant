@@ -177,9 +177,6 @@ http://localhost/gemini_streaming_travel_ai/?query=%22hello%22
 http://localhost/gemini_streaming_travel_ai/mapstate
 
 
-For OpenAi it's Post request using postman
-
-http://localhost:80/travel_assistant/?prompt="Share 2 places to visit in UAE"
 
 ```
  docker push mjunaidca/travel_ai_assistant:v1
@@ -229,25 +226,6 @@ docker push mjunaidca/nextjs_travel_ai:latest
 gcloud run deploy nextjs-travel-ai --image mjunaidca/nextjs_travel_ai:latest
 ```
 
-## Contributing
-
-Contributions to this project are welcome. To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-For any additional questions or comments, please contact the project maintainers.
-
----
 
 Enjoy exploring the world with the Travel Assistant Application!
 
