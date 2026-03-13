@@ -14,12 +14,6 @@ This Travel Assistant Application is designed to test complete Generative AI App
 We have extensively explored gemini pro function calling, and open ai dev day features. The services are developed using FastAPI framework and the Frontend frontier is powered with NextJS 14 as well as streamlit for pure python devs.
 
 The AI Powered Maps are powered with "Google Maps javascript API" for NextJS and "Plotly with MapBox" for streamlit.
-
-In this video I have walkthrough the overall architecture and gemini pro streaming api pipeline, and function calling architecture.
-
-[<img src="https://img.youtube.com/vi/qas4aLEkXTk/hqdefault.jpg" width="580" height="360"
-/>](https://www.youtube.com/embed/qas4aLEkXTk)
-
 ## Features
 
 1. Open AI Assistants API Implementation
